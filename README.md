@@ -5,6 +5,11 @@ There are generally two parts, the SGU10 to GU10 adapter part and the 50mm to 63
 
 For the SGU10 to GU10 adapter, I recommend using the invertedsepco.stl design. All the rings are more or less the same.. the ringnarrow50.stl is the latest and slightly tighter but they all work fine.
 
+
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl">
+</script>
+
+
 A word of warning - do not print the electrical adapter part using carbon fiber as it is electrically conductive! Use non-conductive plastic filaments only.
 
 to assemble it you need some hardware in addition to the 3d printed parts;
@@ -34,7 +39,30 @@ Assembly instructions:
   6) Screw the GU10 pins into the bottom of the hex standoff.
 
 
+Cost estimates:
 
+15.65 / 60 * 2 = £0.52  (GU10 pins)
+8.46 / 20 * 1  = £0.42  (GU10 socket)
+1.20 / 20 * 2  = £0.13  (M3 12mm tail slotted plastic screw)
+2.80 / 20 * 2  = £0.28  (10mm FF hex standoff)
+1.79 / 20 * 2  = £0.18  (M3 5mm screw)
+
+Total:           £1.53 per adapter
+
+Add to that the cost of the 3d printing.. if you can get access to a 3d printer and just pay for the filament that'd be best.
+
+Ordering from makeitquick.com;
+
+invertedsepco.stl in white PC-ABS 80% fill £7.19 per unit
+ringnarrow50.stl in white PC-ABS 20% fill  £3.16 per unit
+
+Total cost of adapter: £11.88 per unit
+
+If using the cheaper ENGINEERING PLASTIC for invertedsepco;
+
+invertedsepco.stl in black EP 50% fill £4.77 per unit
+
+Total cost then: £9.46 per unit
 
   
 
