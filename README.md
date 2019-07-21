@@ -62,6 +62,7 @@ Total cost then: £9.46 per unit
   
 Images
 
-![newold](/imgs/IMG_20190721_044755.jpg =400x300)
+![newold](/imgs/IMG_20190721_044755.jpg)
+![unstacked](/imgs/IMG_20190721_044837.jpg)
 
 
