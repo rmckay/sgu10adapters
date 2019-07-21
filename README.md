@@ -62,6 +62,6 @@ Total cost then: £9.46 per unit
   
 Images
 
-![newold](/rmckay/sgu10adapters/blob/master/imgs/IMG_20190721_044755.jpg "The new and the old")
+![newold](/imgs/IMG_20190721_044755.jpg "The new and the old")
 
 
