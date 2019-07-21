@@ -5,11 +5,6 @@ There are generally two parts, the SGU10 to GU10 adapter part and the 50mm to 63
 
 For the SGU10 to GU10 adapter, I recommend using the invertedsepco.stl design. All the rings are more or less the same.. the ringnarrow50.stl is the latest and slightly tighter but they all work fine.
 
-
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl">
-</script>
-
-
 A word of warning - do not print the electrical adapter part using carbon fiber as it is electrically conductive! Use non-conductive plastic filaments only.
 
 to assemble it you need some hardware in addition to the 3d printed parts;
@@ -65,6 +60,8 @@ invertedsepco.stl in black EP 50% fill £4.77 per unit
 Total cost then: £9.46 per unit
 
   
+Images
 
+![newold](/rmckay/sgu10adapters/blob/master/imgs/IMG_20190721_044755.jpg "The new and the old")
 
 
