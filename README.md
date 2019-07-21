@@ -7,24 +7,10 @@ For the SGU10 to GU10 adapter, I recommend using the invertedsepco.stl design. A
 
 A word of warning - do not print the electrical adapter part using carbon fiber as it is electrically conductive! Use non-conductive plastic filaments only.
 
-to assemble it you need some hardware in addition to the 3d printed parts;
-for each unit you will need
-
-  * A GU10 socket (https://www.amazon.co.uk/gp/product/B00K2TJ4I8/)
-  * Two 12mm M3 slotted plastic cutting screws (https://www.ebay.co.uk/itm/M2-M2-3-M2-6-M3-Pan-Head-Phillips-PT-Slotted-Self-tapping-Screws-Tail-Cut-Screws/202177180586?)
-  * Two hex standoffs 10mm, I prefer nickel ones (https://www.ebay.co.uk/itm/Hex-Spacer-Standoff-M3x10-Nickel-Brass-Harwin-R30-1001002-Pk20/153541310597)
-  * Two standard M3 5mm machine screws (https://www.ebay.co.uk/itm/M3-3mm-A2-STAINLESS-STEEL-POZI-PAN-HEAD-MACHINE-SCREWS-POZIDRIVE-BOLTS-UK/111304543360?)
-  * Two GU10 pins -- or maybe substitute another M3 machine screw (https://www.yoycart.com/Product/587235273486/Pure_copper_tinned_bile_machine_stereo_D)
 
 
-The GU10 pins are hard to find.. another source may be taobao; https://item.taobao.com/item.htm?id=587235273486 way easier to order from yoycart though.
 
-https://item.taobao.com/item.htm?spm=a21wu.10013406.0.0.6d2f7bbdUvWl7A&id=548601464465
-https://item.taobao.com/item.htm?spm=2013.1.20141002.6.76592e6fjjatwZ
-https://www.1688.com/huo/detail-557699757054.html?spm=a262i4.9164788.zhaohuo-list-offerlist.46.4ea37870irYewZ
-
-
-Assembly instructions:
+# Assembly instructions:
 
   1) Cut GU10 socket wires to 4.5cm and skin off 4mm of insulation.
   2) Insert the bare ends of the wires into the hole in the side of the hexagonal supports inside the adapter.
@@ -34,7 +20,7 @@ Assembly instructions:
   6) Screw the GU10 pins into the bottom of the hex standoff.
 
 
-Cost estimates:
+# Cost estimates:
 
 | Description               | Items per Pack | Needed per adapter | Cost per pack | Cost per adapter |
 |---------------------------|----------------|--------------------|---------------|------------------|
@@ -62,10 +48,25 @@ invertedsepco.stl in black EP 50% fill £4.77 per unit
 
 Total cost then: £9.46 per unit
 
+# Sourcing the parts
+
+  * Two GU10 pins -- or maybe substitute another M3 machine screw 
+    1. https://www.yoycart.com/Product/587235273486/Pure_copper_tinned_bile_machine_stereo_D
+    2. https://item.taobao.com/item.htm?spm=a21wu.10013406.0.0.6d2f7bbdUvWl7A&id=548601464465
+    3. https://item.taobao.com/item.htm?spm=2013.1.20141002.6.76592e6fjjatwZ
+    4. https://www.1688.com/huo/detail-557699757054.html?spm=a262i4.9164788.zhaohuo-list-offerlist.46.4ea37870irYewZ
+
+  * A GU10 socket 
+    1. https://www.amazon.co.uk/gp/product/B00K2TJ4I8/
+  * Two standard M3 5mm machine screws
+    1. https://www.ebay.co.uk/itm/M3-3mm-A2-STAINLESS-STEEL-POZI-PAN-HEAD-MACHINE-SCREWS-POZIDRIVE-BOLTS-UK/111304543360?
+  * Two 12mm M3 slotted plastic cutting screws 
+    1. https://www.ebay.co.uk/itm/M2-M2-3-M2-6-M3-Pan-Head-Phillips-PT-Slotted-Self-tapping-Screws-Tail-Cut-Screws/202177180586?
+  * Two hex standoffs 10mm, I prefer nickel ones
+    1. https://www.ebay.co.uk/itm/Hex-Spacer-Standoff-M3x10-Nickel-Brass-Harwin-R30-1001002-Pk20/153541310597
   
-Images
+# Images
 
 ![newold](/imgs/IMG_20190721_044755.jpg)
 ![unstacked](/imgs/IMG_20190721_044837.jpg)
-
 
