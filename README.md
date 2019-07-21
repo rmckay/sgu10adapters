@@ -3,7 +3,9 @@
 
 There are generally two parts, the SGU10 to GU10 adapter part and the 50mm to 63mm face ring adapter.
 
-For the SGU10 to GU10 adapter, I recommend using the invertedsepco.stl design.
+For the SGU10 to GU10 adapter, I recommend using the invertedsepco.stl design. All the rings are more or less the same.. the ringnarrow50.stl is the latest and slightly tighter but they all work fine.
+
+A word of warning - do not print the electrical adapter part using carbon fiber as it is electrically conductive! Use non-conductive plastic filaments only.
 
 to assemble it you need some hardware in addition to the 3d printed parts;
 for each unit you will need
