@@ -17,6 +17,11 @@ for each unit you will need
 
 The GU10 pins are hard to find.. another source may be taobao; https://item.taobao.com/item.htm?id=587235273486 way easier to order from yoycart though.
 
+https://item.taobao.com/item.htm?spm=a21wu.10013406.0.0.6d2f7bbdUvWl7A&id=548601464465
+https://item.taobao.com/item.htm?spm=2013.1.20141002.6.76592e6fjjatwZ
+https://www.1688.com/huo/detail-557699757054.html?spm=a262i4.9164788.zhaohuo-list-offerlist.46.4ea37870irYewZ
+
+
 Assembly instructions:
 
   1) Cut GU10 socket wires to 4.5cm and skin off 4mm of insulation.
