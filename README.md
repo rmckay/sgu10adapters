@@ -36,13 +36,16 @@ Assembly instructions:
 
 Cost estimates:
 
-15.65 / 60 * 2 = £0.52  (GU10 pins)
-8.46 / 20 * 1  = £0.42  (GU10 socket)
-1.20 / 20 * 2  = £0.13  (M3 12mm tail slotted plastic screw)
-2.80 / 20 * 2  = £0.28  (10mm FF hex standoff)
-1.79 / 20 * 2  = £0.18  (M3 5mm screw)
-
-Total:           £1.53 per adapter
+| Description               | Items per Pack | Needed per adapter | Cost per pack | Cost per adapter |
+|---------------------------|----------------|--------------------|---------------|------------------|
+|                           |                |                    |               |                  |
+| GU10 pins                 | 60             | 2                  | £15.65        | £0.52            |
+| GU10 socket               | 20             | 1                  | £8.46         | £0.42            |
+| M3 12mm tail slot screws  | 20             | 2                  | £1.20         | £0.13            |
+| 10mm fem2fem hex standoff | 20             | 2                  | £2.80         | £0.28            |
+| M3 5mm machine screw      | 20             | 2                  | £1.79         | £0.18            |
+|                           |                |                    |               |                  |
+| Total                     |                |                    |               | £1.53            |
 
 Add to that the cost of the 3d printing.. if you can get access to a 3d printer and just pay for the filament that'd be best.
 
