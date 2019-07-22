@@ -12,7 +12,7 @@
     grip_height = 26;
     
     plug_outter_width = 31;
-    plug_inner_width = 28.5;
+    plug_inner_width = 28.3;
     
     // screw holes
     
@@ -150,7 +150,7 @@ difference() {
 // wire guide into hole block
  translate([-3.7,-3,7.7]) 
     rotate([30,90,0])
-        cube([.7,4.2,2]);
+        cube([4.7,4.2,3]);
 
      // side holes for wire
 //    translate([-5,0,10])
@@ -180,7 +180,7 @@ difference() {
      // wire guide into hole block
  translate([3.7,3,7.7]) 
     rotate([210,90,0])
-        cube([4.7,4.2,2]);
+        cube([4.7,4.2,3]);
      
      // separator slot
  translate([-1.5,0.75,13])
