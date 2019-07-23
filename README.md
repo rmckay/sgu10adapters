@@ -17,7 +17,8 @@ A word of warning - do not print the electrical adapter part using carbon fiber 
   3) Insert the 10mm hex standoff into the hex holes in the bottom and push it in until it crimps the wires.
   4) Screw the 5mm M3 machine screw through the hole in the top of the hex support into the hex standoff inside.
   5) Screw the GU10 socket into the two round support pillars using the 12mm M3 plastic cutting screws.
-  6) Screw the GU10 pins into the bottom of the hex standoff.
+  6) Screw the GU10 pins into the bottom of the hex standoff. (If you were unable to source proper GU10 pins, 10mm M3 socket cap allen bolts seem to work, screw them in about 5mm until they bottom out against the other 5mm M3 screw from step 4).
+  
 
 
 # Cost estimates:
@@ -55,6 +56,7 @@ Total cost then: £9.46 per unit
     2. https://item.taobao.com/item.htm?spm=a21wu.10013406.0.0.6d2f7bbdUvWl7A&id=548601464465
     3. https://item.taobao.com/item.htm?spm=2013.1.20141002.6.76592e6fjjatwZ
     4. https://www.1688.com/huo/detail-557699757054.html?spm=a262i4.9164788.zhaohuo-list-offerlist.46.4ea37870irYewZ
+    5. https://www.ebay.co.uk/itm/221306240232 (an alternative to actual GU10 pins is to use a 10mm M5 socket cap allen bolt.. it's not the right thing, but it does fit in the socket and they're cheap and easy to get anywhere.
 
   * A GU10 socket 
     1. https://www.amazon.co.uk/gp/product/B00K2TJ4I8/
