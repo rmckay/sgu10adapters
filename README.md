@@ -1,5 +1,5 @@
 # sgu10adapters
-3d part models to adapt SGU10 lamp fixtures to work with normal GU10 lamps.
+3d part models to adapt SGU10 lamp fixtures to work with normal GU10 lamps instead of the overpriced Aurora AU-GUF4011/40 ones.
 
 There are generally two parts, the SGU10 to GU10 adapter part and the 50mm to 63mm face ring adapter.
 
