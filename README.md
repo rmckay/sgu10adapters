@@ -3,6 +3,8 @@
 
 There are generally two parts, the SGU10 to GU10 adapter part and the 50mm to 63mm face ring adapter.
 
+An instructional video [<img src="https://img.youtube.com/vi/2aEBEJwVzt0/maxresdefault.jpg" width="50%">](https://youtu.be/2aEBEJwVzt0)
+
 For the SGU10 to GU10 adapter, I recommend using the invertedsepco.stl design. All the rings are more or less the same.. the ringnarrow50.stl is the latest and slightly tighter but they all work fine.
 
 A word of warning - do not print the electrical adapter part using carbon fiber as it is electrically conductive! Use non-conductive plastic filaments only.
@@ -56,7 +58,7 @@ Total cost then: £9.46 per unit
     2. https://item.taobao.com/item.htm?spm=a21wu.10013406.0.0.6d2f7bbdUvWl7A&id=548601464465
     3. https://item.taobao.com/item.htm?spm=2013.1.20141002.6.76592e6fjjatwZ
     4. https://www.1688.com/huo/detail-557699757054.html?spm=a262i4.9164788.zhaohuo-list-offerlist.46.4ea37870irYewZ
-    5. https://www.ebay.co.uk/itm/221306240232 (an alternative to actual GU10 pins is to use a 10mm M5 socket cap allen bolt.. it's not the right thing, but it does fit in the socket and they're cheap and easy to get anywhere.
+    5. https://www.ebay.co.uk/itm/221306240232 (an alternative to actual GU10 pins is to use a 12mm M3 socket cap allen bolt.. it's not the right thing, but it does fit in the socket and they're cheap and easy to get anywhere.
 
   * A GU10 socket 
     1. https://www.amazon.co.uk/gp/product/B00K2TJ4I8/
