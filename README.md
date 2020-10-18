@@ -19,7 +19,7 @@ A word of warning - do not print the electrical adapter part using carbon fiber 
   3) Insert the 10mm hex standoff into the hex holes in the bottom and push it in until it crimps the wires.
   4) Screw the 5mm M3 machine screw through the hole in the top of the hex support into the hex standoff inside.
   5) Screw the GU10 socket into the two round support pillars using the 12mm M3 plastic cutting screws.
-  6) Screw the GU10 pins into the bottom of the hex standoff. (If you were unable to source proper GU10 pins, 10mm M3 socket cap allen bolts seem to work, screw them in about 5mm until they bottom out against the other 5mm M3 screw from step 4).
+  6) Screw the GU10 pins into the bottom of the hex standoff. (If you were unable to source proper GU10 pins, 12mm M3 socket cap allen bolts seem to work, screw them in about 5mm until they bottom out against the other 5mm M3 screw from step 4).
   
 
 
@@ -37,6 +37,16 @@ A word of warning - do not print the electrical adapter part using carbon fiber 
 | Total                     |                |                    |               | £1.53            |
 
 Add to that the cost of the 3d printing.. if you can get access to a 3d printer and just pay for the filament that'd be best.
+
+If you can't get access to a 3d printer, the cheapest place I've found to make these is 3dlondon.org;
+
+https://3dlondon.org/product/3d-printing-2/
+
+invertedsepco.stl - £1.00 per unit in white PLA or £1.96 in PETG
+ringnarrow50.stl - £1.00 per unit in white PLA or £1.43 in PETG
+
+PETG should be somewhat higher quality.
+
 
 Ordering from makeitquick.com;
 
@@ -64,10 +74,14 @@ Total cost then: £9.46 per unit
     1. https://www.amazon.co.uk/gp/product/B00K2TJ4I8/
   * Two standard M3 5mm machine screws
     1. https://www.ebay.co.uk/itm/M3-3mm-A2-STAINLESS-STEEL-POZI-PAN-HEAD-MACHINE-SCREWS-POZIDRIVE-BOLTS-UK/111304543360?
-  * Two 12mm M3 slotted plastic cutting screws 
-    1. https://www.ebay.co.uk/itm/M2-M2-3-M2-6-M3-Pan-Head-Phillips-PT-Slotted-Self-tapping-Screws-Tail-Cut-Screws/202177180586?
-  * Two hex standoffs 10mm, I prefer nickel ones
-    1. https://www.ebay.co.uk/itm/Hex-Spacer-Standoff-M3x10-Nickel-Brass-Harwin-R30-1001002-Pk20/153541310597
+  * Two 12mm M3 self tapping screws
+    1. https://www.ebay.co.uk/itm/M1-M3-Phillips-Pan-Head-Self-Tapping-Screw-Cross-Recessed-Nickel-Plated-/274437065032
+  * Two hex standoffs 10mm, I prefer nickel ones -- the unplated brass colored hexes are slightly narrower and don't fit quite so well.
+    1. https://www.ebay.co.uk/itm/Hex-Female-M3-Nickel-Plated-Pillar-PCB-Hexagonal-Standoff-Studs-Support/263855977592
+    2. https://www.ebay.co.uk/itm/Nickel-Plated-Female-Female-M3-Thread-Pillar-PCB-Spacer-Studs-Standoff-Hex/192784823415
+    3. https://www.ebay.co.uk/itm/Nickel-M3-Female-Hexagonal-Pillar-Hex-Spacer-Threaded-Standoff/153679541113
+
+
   
 # Images
 
